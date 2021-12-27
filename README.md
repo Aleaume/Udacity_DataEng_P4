@@ -69,7 +69,7 @@ The file structure itself is similar to this:
 
 - The Song data S3 bucket endpoint is : s3://udacity-dend/log_data and the json path: s3://udacity-dend/log_data/<YYYY>/<MM>/<filename>.json
 
-## File Extraction & Parquet files Creation
+## Files Extraction & Parquet files Creation
 
 The structure of the 2 data types is similar to the one used in another project (https://github.com/Aleaume/Udacity_DataEng_P3):
   
