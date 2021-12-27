@@ -23,7 +23,7 @@ The project is composed of different cloud components and a few scripts working 
 An AWS Bucket made publicly available, own & managed by udacity.
 s3://udacity-dend/
 It contains the different dataset needed for this project, that will be picked up by the etl.py scripts and copied over into the Redshift instance.
-For more details on the dataset see the section "Dataset" = > https://github.com/Aleaume/Udacity_DataEng_P3#dataset 
+For more details on the dataset see the section "Dataset" = > https://github.com/Aleaume/Udacity_DataEng_P4#dataset 
 
 The second S3 bucket is a bucket I created for the purpose of this project in my AWS instance
 
