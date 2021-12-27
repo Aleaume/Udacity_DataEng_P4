@@ -4,8 +4,8 @@ Udacity Course, Data Engineering Nanodegree, 4th Project, Data Lake
 ## Requirements
 The following modules / component need to be installed:
 - S3 bucket
-- User with access to S3 Bucket
-- Spark
+- User with full access to S3 Bucket
+- Workspace with Hadoop cluser and Spark intalled.
 
 ## Overview
 In this project the goal is to build an ETL pipeline to extract data from an S3 bucket, process it using Spark and then load it back to an S3 bucket in the form of parquet files properly partitioned as a set of dimensional tables. 
